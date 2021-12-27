@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul  9 14:48:37 2021
-
-@author: OpenClassrooms
+@author: Jonathan
 """
 
 # Import Python libraries
