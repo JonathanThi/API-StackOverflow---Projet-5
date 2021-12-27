@@ -15,10 +15,9 @@ template = {
   "swagger": "2.0",
   "info": {
     "title": "Stackoverflow tags predictor for question",
-    "description": "API to predict tags of a stackoverflow non-cleaned question. NLP preprocessing and LogisticRegression multi-labels predictions.",
+    "description": "Algorithme de Machine Learning destiné à assigner automatiquement plusieurs tags pertinents à une question posée sur Stack overflow.",
     "contact": {
-      "email": "michael@mf-data-science.fr",
-      "url": "http://www.mf-data-science.fr",
+      "email": "jonathan.thiam@gmail.com"
     },
     "version": "0.0.1"
   }
